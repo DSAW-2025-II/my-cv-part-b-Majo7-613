@@ -4,6 +4,8 @@
 
 https://dsaw-2025-ii.github.io/my-cv-part-a-Majo7-613/
 
+![Foto Final](foto-final.png)
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
